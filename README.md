@@ -1,18 +1,10 @@
-# Flexiple Assignment
 
-## Tech stack for this app
+## App live link on Heroku
 
-- RoR
-- PostgreSQL
-- tailwindcss
+https://pk-resume.herokuapp.com/login
 
-## Setup
+![img.png](img.png)
 
-Run following command to create first user after migrating database.
+![img_1.png](img_1.png)
 
-```
-rake db:seed
-```
-
-Email: `johndoe@example.com`
-Password: `password`
+![img_2.png](img_2.png)
